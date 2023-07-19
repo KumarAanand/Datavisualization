@@ -1,0 +1,17 @@
+/* table.css */
+.table-container {
+    margin: 0 auto;
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+  .table-container th,
+  .table-container td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  .table-container th {
+    background-color: #f2f2f2;
+  }
+  
